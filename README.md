@@ -10,6 +10,7 @@ The project has two parts:
 ## Notebook
 
 - **`DL_Project.ipynb`** - end-to-end pipeline: data loading → training + Optuna tuning → evaluation → style transfer generation → style transfer evaluation.
+<img width="965" height="576" alt="image" src="https://github.com/user-attachments/assets/409cf832-1214-4811-8ca3-65c53cda4d8a" />
 
 
 ## Part A - Classification (Transfer Learning)
