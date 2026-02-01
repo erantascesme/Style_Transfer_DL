@@ -4,7 +4,7 @@ This repository contains my Deep Learning course final assignment, implemented i
 
 The project has two parts:
 
-- **Part A - Binary image classification (Transfer Learning):** classify whether a painting is **Vincent van Gogh** (`label=1`) or **not van Gogh** (`label=0`) using fine-tuned pretrained CNNs (**VGG19** and **AlexNet**).
+- **Part A - Binary image classification (Transfer Learning):** classify whether a painting is **Vincent van Gogh** or **Not** using fine-tuned pretrained CNNs (**VGG19** and **AlexNet**).
 - **Part B - Neural Style Transfer:** generate stylized images using optimization-based style transfer with 4 model variants (pretrained vs. fine-tuned VGG19/AlexNet) and evaluate the generated images using the fine-tuned classifiers.
 <div>
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6c42208e-3b13-46ac-a03d-20c1d9e0d168" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0ca353f7-8a27-4940-ad1a-741dfed3c4db" />
